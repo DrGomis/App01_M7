@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Student Manager</string>
+    <string name="approve_all">Approve all</string>
+    <string name="add_grades">Add Grades</string>
+    <string name="halp">Halp</string>
+    <string name="see_grades">see grades</string>
+    <string name="todo">TODO</string>
+    <string name="save">SAVE</string>
+    <string name="imagen_de_prueba">Imagen de prueba</string>
+    <string name="student_name">Student name:</string>
+    <string name="empty">Empty</string>
+</resources>
