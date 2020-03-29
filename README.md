@@ -10,9 +10,11 @@
 - Sección de ayuda
 
 # Capturas de pantalla
-[[https://github.com/DrGomis/App01_M7/blob/master/sc/sc_01.png|alt=Captura]]
-[[https://github.com/DrGomis/App01_M7/blob/master/sc/sc_02.png|alt=Captura]]
-[[https://github.com/DrGomis/App01_M7/blob/master/sc/sc_03.png|alt=Captura]]
-[[https://github.com/DrGomis/App01_M7/blob/master/sc/sc_04.png|alt=Captura]]
-[[https://github.com/DrGomis/App01_M7/blob/master/sc/sc_05.png|alt=Captura]]
+
+![Captura](https://github.com/DrGomis/App01_M7/blob/master/sc/sc_01.png)
+![Captura](https://github.com/DrGomis/App01_M7/blob/master/sc/sc_02.png)
+![Captura](https://github.com/DrGomis/App01_M7/blob/master/sc/sc_03.png)
+![Captura](https://github.com/DrGomis/App01_M7/blob/master/sc/sc_04.png)
+![Captura](https://github.com/DrGomis/App01_M7/blob/master/sc/sc_05.png)
+
  
