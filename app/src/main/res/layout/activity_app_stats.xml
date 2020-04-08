@@ -92,6 +92,7 @@
                 android:drawableStart="@drawable/check_a"
                 android:drawableLeft="@drawable/check_a"
                 android:text="Class A stats"
+                android:paddingLeft="8dp"
                 android:textColor="@color/colorHumilde"
                 android:textSize="30sp" />
 
@@ -115,6 +116,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
+                            android:paddingLeft="8dp"
                             android:text="Approved:"
                             android:textColor="@color/colorHumildeA" />
 
@@ -150,6 +152,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
+                            android:paddingLeft="8dp"
                             android:text="Failures:"
                             android:textColor="@color/colorHumildeA" />
 
@@ -190,6 +193,7 @@
                     <TextView
                         android:id="@+id/avg_note_a"
                         android:layout_width="match_parent"
+                        android:paddingRight="8dp"
                         android:layout_height="wrap_content"
                         android:text="Average note"
                         android:textColor="@color/colorHumildeA" />
@@ -212,6 +216,7 @@
                 android:drawableStart="@drawable/check_b"
                 android:drawableLeft="@drawable/check_b"
                 android:text="Class B stats"
+                android:paddingLeft="8dp"
                 android:textColor="@color/colorHumilde"
                 android:textSize="30sp" />
 
@@ -235,6 +240,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
+                            android:paddingLeft="8dp"
                             android:text="Approved:"
                             android:textColor="@color/colorHumildeA" />
 
@@ -272,6 +278,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
+                            android:paddingLeft="8dp"
                             android:text="Failures:"
                             android:textColor="@color/colorHumildeA" />
 
@@ -314,6 +321,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="Average note"
+                        android:paddingRight="8dp"
                         android:textColor="@color/colorHumildeA" />
 
                     <TextView
@@ -334,6 +342,7 @@
                 android:drawableStart="@drawable/check_c"
                 android:drawableLeft="@drawable/check_c"
                 android:text="Class C stats"
+                android:paddingLeft="8dp"
                 android:textColor="@color/colorHumilde"
                 android:textSize="30sp" />
 
@@ -356,6 +365,7 @@
                             android:id="@+id/approved_c"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
+                            android:paddingLeft="8dp"
                             android:layout_weight="1"
                             android:text="Approved:"
                             android:textColor="@color/colorHumildeA" />
@@ -393,6 +403,7 @@
                             android:id="@+id/failure_c"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
+                            android:paddingLeft="8dp"
                             android:layout_weight="1"
                             android:text="Failures:"
                             android:textColor="@color/colorHumildeA" />
@@ -436,6 +447,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="Average note"
+                        android:paddingRight="8dp"
                         android:textColor="@color/colorHumildeA"
                         android:textSize="14sp" />
 

@@ -20,18 +20,15 @@
 
     <ScrollView
         android:id="@+id/scroll_halp"
-        android:layout_width="0dp"
-        android:layout_height="0dp"
-        android:layout_marginTop="8dp"
-        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="@+id/img_halp"
-        app:layout_constraintTop_toBottomOf="@+id/img_halp"
-        app:layout_constraintVertical_bias="1.0">
+        app:layout_constraintTop_toBottomOf="@+id/img_halp">
 
         <LinearLayout
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:orientation="vertical">
 
@@ -52,12 +49,12 @@
                     android:id="@+id/desc_add_user"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
+                    android:layout_marginLeft="10dp"
                     android:layout_weight="1"
                     android:gravity="center_vertical"
-                    android:layout_marginLeft="10dp"
                     android:text="Add students and their grades."
                     android:textColor="@color/colorHumilde"
-                    android:textSize="24sp" />
+                    android:textSize="22sp" />
 
             </LinearLayout>
 
@@ -78,8 +75,8 @@
                     android:id="@+id/desc_see"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
-                    android:layout_weight="1"
                     android:layout_marginLeft="10dp"
+                    android:layout_weight="1"
                     android:gravity="center_vertical"
                     android:text="See all the students sort by their average grades."
                     android:textColor="@color/colorHumilde"
@@ -105,13 +102,12 @@
                     android:id="@+id/desc_stats"
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
+                    android:layout_marginLeft="10dp"
                     android:layout_weight="1"
                     android:gravity="center_vertical"
-                    android:layout_marginLeft="10dp"
                     android:text="See statistics of every course."
                     android:textColor="@color/colorHumilde"
-                    android:textSize="24sp" />
-
+                    android:textSize="22sp" />
 
 
             </LinearLayout>
@@ -133,27 +129,29 @@
                     android:id="@+id/desc_appr"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
+                    android:layout_marginLeft="10dp"
                     android:layout_weight="1"
                     android:gravity="center_vertical"
-                    android:layout_marginLeft="10dp"
                     android:text="Approve all students who failed."
                     android:textColor="@color/colorHumilde"
-                    android:textSize="24sp" />
+                    android:textSize="22sp" />
 
 
             </LinearLayout>
 
-            <TextView
-                android:id="@+id/credits"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:layout_marginTop="40dp"
-                android:layout_weight="1"
-                android:gravity="center_horizontal"
-                android:text="Humble app developed by Vicente Gomis for Joan D'Àustria M7|DAM1" />
         </LinearLayout>
     </ScrollView>
 
+    <TextView
+        android:id="@+id/credits"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/credits_view"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -87,9 +87,11 @@ public class MainActivity extends AppCompatActivity {
                             howMany++;
                         }
                     }
-                    if (howMany > 0) {
+                    if (howMany == 1) {
+                        Toast.makeText(MainActivity.this, "Approved " + howMany + " student!", Toast.LENGTH_SHORT).show();
+                    } else if (howMany > 1) {
                         Toast.makeText(MainActivity.this, "Approved " + howMany + " students!", Toast.LENGTH_SHORT).show();
-                    } else {
+                    } else if (howMany < 1) {
                         Toast.makeText(MainActivity.this, "No changes were made!", Toast.LENGTH_SHORT).show();
                     }
 

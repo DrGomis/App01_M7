@@ -4,6 +4,7 @@
     <string name="add_grades">Add Grades</string>
     <string name="halp">Halp</string>
     <string name="see_grades">see grades</string>
+    <string name="credits_view"><i>Humble app developed by Vicente Gomis to <b>Joan D\'Àustria</b> [M7|DAM1]</i></string>
     <string name="todo">TODO</string>
     <string name="save">SAVE</string>
     <string name="imagen_de_prueba">Imagen de prueba</string>

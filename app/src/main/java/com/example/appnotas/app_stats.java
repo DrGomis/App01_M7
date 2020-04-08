@@ -117,7 +117,7 @@ public class app_stats extends AppCompatActivity {
         AverageB.setText(String.valueOf(b_avg));
 
         /* ======== DATA FROM CLASS C ======== */
-        int dataC [] = getAllDataFromClass(grade_b_list, counter); // 0, Total | 1, Apr | 2, Fail | 3, % Apr | 4, % Fail
+        int dataC [] = getAllDataFromClass(grade_c_list, counter); // 0, Total | 1, Apr | 2, Fail | 3, % Apr | 4, % Fail
         c_avg = dataC[0] / counter;
 
         // Shows all data from Class C

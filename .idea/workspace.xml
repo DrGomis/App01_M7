@@ -39,9 +39,7 @@
       <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/halp.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/header_help.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/icon_student.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/main_header_fix.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/pencil_icon.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/search_user.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/seestudent_header.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/stats_header_fix.png" afterDir="false" />
@@ -105,14 +103,24 @@
       </list>
     </option>
   </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="C:\Users\V\Desktop\key\key.jks" />
+    <option name="KEY_ALIAS" value="Student Manager" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YwJMH6UQfMD4jq6myZ8SoMbJQm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ApkExportedModule" value="app" />
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="99PJE6AQT8AU4SZT" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-03-29T13:26:04.936Z" />
+    <property name="ExportApk.ApkPath" value="C:\Users\V\Desktop\M7\GradeManager_VicenteGomis\app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ExportApk.SignV2" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
@@ -206,5 +214,18 @@
       <updated>1583847673560</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
