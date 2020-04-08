@@ -13,7 +13,7 @@
 [Enlace a la APK](https://github.com/DrGomis/App01_M7/blob/master/app/release/StudentManager-VicenteGomis.apk)
 
 # Capturas de pantalla
-
+(Algunas capturas pueden estar desactualizadas y no corresponder con la versión final)
 ![Captura](https://github.com/DrGomis/App01_M7/blob/master/screenshots/sc_01.png)
 ![Captura](https://github.com/DrGomis/App01_M7/blob/master/screenshots/sc_02.png)
 ![Captura](https://github.com/DrGomis/App01_M7/blob/master/screenshots/sc_03.png)
