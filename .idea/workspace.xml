@@ -117,7 +117,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ApkExportedModule" value="app" />
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="99PJE6AQT8AU4SZT" />
-    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-03-29T13:26:04.936Z" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-04-08T14:58:05.067Z" />
     <property name="ExportApk.ApkPath" value="C:\Users\V\Desktop\M7\GradeManager_VicenteGomis\app" />
     <property name="ExportApk.BuildVariants" value="release" />
     <property name="ExportApk.SignV2" value="true" />
