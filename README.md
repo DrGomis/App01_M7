@@ -10,14 +10,17 @@
 - Sección de ayuda
 
 # Acceso rápido
-[Enlace a la APK](https://github.com/DrGomis/App01_M7/blob/master/app-release.apk)
+[Enlace a la APK](https://github.com/DrGomis/App01_M7/blob/master/app/release/StudentManager-VicenteGomis.apk)
 
 # Capturas de pantalla
 
-![Captura](https://github.com/DrGomis/App01_M7/blob/master/sc/sc_01.png)
-![Captura](https://github.com/DrGomis/App01_M7/blob/master/sc/sc_02.png)
-![Captura](https://github.com/DrGomis/App01_M7/blob/master/sc/sc_03.png)
-![Captura](https://github.com/DrGomis/App01_M7/blob/master/sc/sc_04.png)
-![Captura](https://github.com/DrGomis/App01_M7/blob/master/sc/sc_05.png)
+![Captura](https://github.com/DrGomis/App01_M7/blob/master/screenshots/sc_01.png)
+![Captura](https://github.com/DrGomis/App01_M7/blob/master/screenshots/sc_02.png)
+![Captura](https://github.com/DrGomis/App01_M7/blob/master/screenshots/sc_03.png)
+![Captura](https://github.com/DrGomis/App01_M7/blob/master/screenshots/sc_04.png)
+![Captura](https://github.com/DrGomis/App01_M7/blob/master/screenshots/sc_05.png)
+![Captura](https://github.com/DrGomis/App01_M7/blob/master/screenshots/sc_06.png)
+![Captura](https://github.com/DrGomis/App01_M7/blob/master/screenshots/sc_07.png)
+![Captura](https://github.com/DrGomis/App01_M7/blob/master/screenshots/sc_08.png)
 
  
