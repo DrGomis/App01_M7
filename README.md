@@ -10,7 +10,10 @@
 - Sección de ayuda
 
 # Acceso rápido
-[Enlace a la APK](https://github.com/DrGomis/App01_M7/blob/master/app/release/StudentManager-VicenteGomis.apk)
+> [Enlace a la APK](https://github.com/DrGomis/App01_M7/blob/master/app/release/StudentManager-VicenteGomis.apk)
+> [Código (Java)](https://github.com/DrGomis/App01_M7/tree/master/app/src/main/java/com/example/appnotas)
+> [Código (XML)](https://github.com/DrGomis/App01_M7/tree/master/app/src/main/res/layout)
+
 
 # Capturas de pantalla
 (Algunas capturas pueden estar desactualizadas y no corresponder con la versión final)
